@@ -7,7 +7,7 @@ Following are the member details of Group # 1:
 | Syed Muhammad Shahzeb Abbas  | shahzebm170@gmail.com  | 2170775 |
 | Roksana Akter  | roksana.akter0755@gmail.com  | 2186838 |
 | Saif Ali | saif.dev03@gmail.com | 1936419 |
-| Bugra Torres | bugratorres@hotmail.com | N/A |  
+| Bugra Torres | bugratorres@hotmail.com | 2183884 |  
 
 The repository consists of the following files:
 
