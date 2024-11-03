@@ -3,11 +3,11 @@ The repository contains the assignment consists of data analysis, sentiment anal
 
 Following is the Group detail:
 | Members  | Email | Student ID |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Syed Muhammad Shahzeb Abbas  | shahzebm170@gmail.com  | 2170775 }
 | Roksana Akter  | roksana.akter0755@gmail.com  | 2186838 |
-| Saif Ali | saif.dev03@gmail.com |   |
-|   |   |   |  
+| Saif Ali | saif.dev03@gmail.com | na |
+| na | na | na |  
 
 The repository consists of the following files:
 
