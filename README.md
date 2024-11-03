@@ -1,7 +1,7 @@
 # ADM-HW2 - VideoGame Reviews
 The repository contains the assignment consists of data analysis, sentiment analysis and algorithmic problem solving questions.  
 
-Following is the Group detail:
+Following are the member details of Group # 1:
 | Members  | Email | Student ID |
 | ------------- | ------------- | ------------- |
 | Syed Muhammad Shahzeb Abbas  | shahzebm170@gmail.com  | 2170775 |
